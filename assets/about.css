@@ -59,41 +59,6 @@ main {
   text-decoration: none;
 }
 
-.tasks {
-  background: white;
-  color: #333;
-  margin-top: 30px;
-  border-radius: 15px;
-  padding: 20px;
-  width: 300px;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  flex-direction: column;
-}
-
-.tasks h3 {
-  margin-bottom: 10px;
-}
-
-.tasks ul {
-  list-style: none;
-  margin-bottom: 10px;
-}
-
-.tasks li {
-  margin: 5px 0;
-}
-
-.add-task-btn {
-  background: #d95550;
-  color: white;
-  border: none;
-  padding: 8px 12px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
 footer {
   font-size: 0.8rem;
   margin-bottom: 20px;
